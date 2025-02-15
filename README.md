@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Reducing memory usage
 
-_Last updated: 2025-02-15T19:03:39.526Z_
+_Last updated: 2025-02-15T19:04:39.846Z_
