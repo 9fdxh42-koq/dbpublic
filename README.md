@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Fixing typos in documentation
 
-_Last updated: 2025-02-15T18:55:38.890Z_
+_Last updated: 2025-02-15T18:56:39.056Z_
