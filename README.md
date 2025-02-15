@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Enhancing offline support
 
-_Last updated: 2025-02-15T19:04:39.846Z_
+_Last updated: 2025-02-15T19:05:40.170Z_
