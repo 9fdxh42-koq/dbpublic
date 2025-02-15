@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Improving API documentation
 
-_Last updated: 2025-02-15T16:49:32.840Z_
+_Last updated: 2025-02-15T16:50:32.827Z_
