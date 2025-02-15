@@ -1,3 +1,3 @@
-# Refining notification system
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-15T19:54:42.321Z_
+_Last updated: 2025-02-15T19:55:43.200Z_
