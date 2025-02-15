@@ -1,3 +1,3 @@
-# Fixing session timeout issues
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-15T15:52:29.608Z_
+_Last updated: 2025-02-15T15:53:29.476Z_
