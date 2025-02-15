@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Fixing compatibility issues
 
-_Last updated: 2025-02-15T15:55:29.589Z_
+_Last updated: 2025-02-15T15:56:29.334Z_
