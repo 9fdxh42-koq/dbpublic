@@ -1,3 +1,3 @@
-# Improving API documentation
+# Enhancing offline support
 
-_Last updated: 2025-02-16T14:17:30.873Z_
+_Last updated: 2025-02-16T14:18:00.624Z_
