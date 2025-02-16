@@ -1,3 +1,3 @@
-# Improving API documentation
+# Small code refactor
 
-_Last updated: 2025-02-16T19:03:35.188Z_
+_Last updated: 2025-02-16T19:04:05.321Z_
