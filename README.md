@@ -1,3 +1,3 @@
-# Improving text formatting
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T04:50:07.155Z_
+_Last updated: 2025-02-16T04:50:37.198Z_
