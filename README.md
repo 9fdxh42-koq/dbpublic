@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T09:46:01.093Z_
+_Last updated: 2025-02-16T09:46:31.088Z_
