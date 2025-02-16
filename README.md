@@ -1,3 +1,3 @@
-# Refining UI elements
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T22:54:09.276Z_
+_Last updated: 2025-02-16T22:54:39.355Z_
