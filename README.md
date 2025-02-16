@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T18:35:34.736Z_
+_Last updated: 2025-02-16T18:36:04.814Z_
