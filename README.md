@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Removing unused variables
 
-_Last updated: 2025-02-16T11:40:35.833Z_
+_Last updated: 2025-02-16T11:41:02.303Z_
