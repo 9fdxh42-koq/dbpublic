@@ -1,3 +1,3 @@
-# Improving database indexing
+# Optimizing CSS rules
 
-_Last updated: 2025-02-16T11:46:32.389Z_
+_Last updated: 2025-02-16T11:47:02.438Z_
