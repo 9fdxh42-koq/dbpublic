@@ -1,3 +1,3 @@
-# Refactor README.md
+# Reducing bundle size
 
-_Last updated: 2025-02-16T16:13:02.394Z_
+_Last updated: 2025-02-16T16:13:32.520Z_
