@@ -1,3 +1,3 @@
-# Adding drag-and-drop functionality
+# Fixing typos in documentation
 
-_Last updated: 2025-02-16T21:09:37.402Z_
+_Last updated: 2025-02-16T21:10:07.584Z_
