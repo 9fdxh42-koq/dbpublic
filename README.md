@@ -1,3 +1,3 @@
-# Refining logging mechanism
+# Updating API request parameters
 
-_Last updated: 2025-02-16T11:49:02.428Z_
+_Last updated: 2025-02-16T11:49:32.949Z_
