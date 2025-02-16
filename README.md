@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Adding better exception handling
 
-_Last updated: 2025-02-16T00:09:52.473Z_
+_Last updated: 2025-02-16T00:10:53.248Z_
