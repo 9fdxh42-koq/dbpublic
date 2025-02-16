@@ -1,3 +1,3 @@
-# Refining UI elements
+# Fixing permission issues
 
-_Last updated: 2025-02-16T19:31:35.857Z_
+_Last updated: 2025-02-16T19:32:05.680Z_
