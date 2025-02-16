@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Adding proper error messages
 
-_Last updated: 2025-02-16T22:28:38.803Z_
+_Last updated: 2025-02-16T22:29:08.803Z_
