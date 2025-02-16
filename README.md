@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Optimizing CSS rules
 
-_Last updated: 2025-02-16T10:13:31.218Z_
+_Last updated: 2025-02-16T10:14:01.337Z_
