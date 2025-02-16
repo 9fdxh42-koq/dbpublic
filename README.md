@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Reducing memory usage
 
-_Last updated: 2025-02-16T15:43:01.934Z_
+_Last updated: 2025-02-16T15:43:31.956Z_
