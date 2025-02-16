@@ -1,3 +1,3 @@
-# Refactoring authentication logic
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T05:55:08.164Z_
+_Last updated: 2025-02-16T05:55:38.144Z_
