@@ -1,3 +1,3 @@
-# Performance improvements
+# Enhancing offline support
 
-_Last updated: 2025-02-16T11:08:01.862Z_
+_Last updated: 2025-02-16T11:08:31.833Z_
