@@ -1,3 +1,3 @@
-# Optimizing README file
+# Adding better exception handling
 
-_Last updated: 2025-02-16T05:50:40.946Z_
+_Last updated: 2025-02-16T05:51:07.918Z_
