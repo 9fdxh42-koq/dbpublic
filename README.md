@@ -1,3 +1,3 @@
-# Performance improvements
+# Improving API documentation
 
-_Last updated: 2025-02-16T05:09:37.421Z_
+_Last updated: 2025-02-16T05:10:07.387Z_
