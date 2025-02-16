@@ -1,3 +1,3 @@
-# Fixing input validation issues
+# Updating API request parameters
 
-_Last updated: 2025-02-16T09:41:00.913Z_
+_Last updated: 2025-02-16T09:41:41.188Z_
