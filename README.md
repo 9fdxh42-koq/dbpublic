@@ -1,3 +1,3 @@
-# Adding drag-and-drop functionality
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T20:28:36.709Z_
+_Last updated: 2025-02-16T20:29:06.742Z_
