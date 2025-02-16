@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Refactoring component structure
 
-_Last updated: 2025-02-16T09:57:01.220Z_
+_Last updated: 2025-02-16T09:57:31.154Z_
