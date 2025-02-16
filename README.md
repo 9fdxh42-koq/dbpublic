@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Refactoring file structure
 
-_Last updated: 2025-02-16T11:44:32.322Z_
+_Last updated: 2025-02-16T11:45:02.364Z_
