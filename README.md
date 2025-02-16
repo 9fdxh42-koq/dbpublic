@@ -1,3 +1,3 @@
-# Reformatting markdown files
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T22:32:08.852Z_
+_Last updated: 2025-02-16T22:32:38.882Z_
