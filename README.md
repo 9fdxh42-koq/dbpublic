@@ -1,3 +1,3 @@
-# Improving text formatting
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T15:51:49.731Z_
+_Last updated: 2025-02-17T15:52:19.877Z_
