@@ -1,3 +1,3 @@
-# Update minor changes
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T17:06:50.275Z_
+_Last updated: 2025-02-17T17:07:20.098Z_
