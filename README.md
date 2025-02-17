@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T15:28:18.103Z_
+_Last updated: 2025-02-17T15:28:48.082Z_
