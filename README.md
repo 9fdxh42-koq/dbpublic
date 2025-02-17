@@ -1,3 +1,3 @@
-# Improving database indexing
+# Refining notification system
 
-_Last updated: 2025-02-17T13:44:46.458Z_
+_Last updated: 2025-02-17T13:45:16.156Z_
