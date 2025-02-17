@@ -1,3 +1,3 @@
-# Reducing redundant operations
+# Optimizing SQL queries
 
-_Last updated: 2025-02-17T04:14:53.066Z_
+_Last updated: 2025-02-17T04:15:22.931Z_
