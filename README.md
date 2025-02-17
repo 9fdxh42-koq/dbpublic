@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T14:50:47.128Z_
+_Last updated: 2025-02-17T14:51:16.992Z_
