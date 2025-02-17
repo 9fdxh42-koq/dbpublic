@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Enhancing offline support
 
-_Last updated: 2025-02-17T20:44:53.594Z_
+_Last updated: 2025-02-17T20:45:23.396Z_
