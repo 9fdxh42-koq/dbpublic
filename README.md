@@ -1,3 +1,3 @@
-# Improving function modularity
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T18:13:51.353Z_
+_Last updated: 2025-02-17T18:14:21.085Z_
