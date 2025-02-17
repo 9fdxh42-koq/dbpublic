@@ -1,3 +1,3 @@
-# Refining notification system
+# Enhancing offline support
 
-_Last updated: 2025-02-17T17:18:50.431Z_
+_Last updated: 2025-02-17T17:19:20.473Z_
