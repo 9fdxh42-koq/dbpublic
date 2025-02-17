@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-17T07:42:56.616Z_
+_Last updated: 2025-02-17T07:43:26.921Z_
