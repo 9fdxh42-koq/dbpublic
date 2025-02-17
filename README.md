@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Fixing permission issues
 
-_Last updated: 2025-02-17T19:46:23.109Z_
+_Last updated: 2025-02-17T19:46:52.569Z_
