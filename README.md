@@ -1,3 +1,3 @@
-# Updating CI/CD pipeline
+# Adding proper error messages
 
-_Last updated: 2025-02-17T16:59:50.146Z_
+_Last updated: 2025-02-17T17:00:20.044Z_
