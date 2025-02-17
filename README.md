@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T02:30:08.962Z_
+_Last updated: 2025-02-17T02:30:38.630Z_
