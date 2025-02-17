@@ -1,3 +1,3 @@
-# Fixing pagination bugs
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T23:46:57.463Z_
+_Last updated: 2025-02-17T23:47:06.852Z_
