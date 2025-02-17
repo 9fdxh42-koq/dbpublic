@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T14:52:47.177Z_
+_Last updated: 2025-02-17T14:53:17.262Z_
