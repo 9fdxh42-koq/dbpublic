@@ -1,3 +1,3 @@
-# Adjusting styling for better UX
+# Improving API documentation
 
-_Last updated: 2025-02-17T10:09:26.446Z_
+_Last updated: 2025-02-17T10:09:56.311Z_
