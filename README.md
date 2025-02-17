@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Refactor README.md
 
-_Last updated: 2025-02-17T23:03:26.561Z_
+_Last updated: 2025-02-17T23:03:56.562Z_
