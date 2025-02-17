@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Optimizing SQL performance
 
-_Last updated: 2025-02-17T07:27:26.497Z_
+_Last updated: 2025-02-17T07:27:56.398Z_
