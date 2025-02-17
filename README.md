@@ -1,3 +1,3 @@
-# Improving application startup time
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-17T03:24:21.803Z_
+_Last updated: 2025-02-17T03:24:51.943Z_
