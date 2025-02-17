@@ -1,3 +1,3 @@
-# Updating project metadata
+# Adding better exception handling
 
-_Last updated: 2025-02-17T20:33:23.263Z_
+_Last updated: 2025-02-17T20:33:53.481Z_
