@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Fixing image rendering issues
 
-_Last updated: 2025-02-17T14:05:16.721Z_
+_Last updated: 2025-02-17T14:05:46.485Z_
