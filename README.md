@@ -1,3 +1,3 @@
-# Improving text formatting
+# Updating example code snippets
 
-_Last updated: 2025-02-17T14:56:47.106Z_
+_Last updated: 2025-02-17T14:57:17.254Z_
