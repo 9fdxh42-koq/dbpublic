@@ -1,3 +1,3 @@
-# Improving comments in code
+# Updating API request parameters
 
-_Last updated: 2025-02-17T15:35:18.496Z_
+_Last updated: 2025-02-17T15:35:47.731Z_
