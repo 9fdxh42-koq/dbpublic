@@ -1,3 +1,3 @@
-# Updating outdated references
+# Refactoring component structure
 
-_Last updated: 2025-02-17T17:15:50.298Z_
+_Last updated: 2025-02-17T17:16:20.351Z_
