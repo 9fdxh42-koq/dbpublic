@@ -1,3 +1,3 @@
-# Fixing session timeout issues
+# Updating example code snippets
 
-_Last updated: 2025-02-17T09:34:37.864Z_
+_Last updated: 2025-02-17T09:35:08.000Z_
