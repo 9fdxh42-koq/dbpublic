@@ -1,3 +1,3 @@
-# Simplifying function logic
+# Updating example code snippets
 
-_Last updated: 2025-02-17T14:10:16.823Z_
+_Last updated: 2025-02-17T14:10:47.131Z_
