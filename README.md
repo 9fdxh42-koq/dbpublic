@@ -1,3 +1,3 @@
-# Enhancing code readability
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T22:02:25.548Z_
+_Last updated: 2025-02-17T22:02:55.417Z_
