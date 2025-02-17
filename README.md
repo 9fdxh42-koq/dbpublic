@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Improving session handling
 
-_Last updated: 2025-02-17T12:42:46.247Z_
+_Last updated: 2025-02-17T12:43:16.213Z_
