@@ -1,3 +1,3 @@
-# Performance improvements
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T17:33:50.745Z_
+_Last updated: 2025-02-17T17:34:20.780Z_
