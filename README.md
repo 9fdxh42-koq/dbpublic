@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Fixing permission issues
 
-_Last updated: 2025-02-18T00:37:52.706Z_
+_Last updated: 2025-02-18T00:38:02.724Z_
