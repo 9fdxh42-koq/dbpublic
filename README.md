@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Fixing typos in documentation
 
-_Last updated: 2025-02-18T00:33:52.456Z_
+_Last updated: 2025-02-18T00:34:02.336Z_
