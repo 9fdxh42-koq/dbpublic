@@ -1,3 +1,3 @@
-# Enhancing mobile responsiveness
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-18T01:03:55.677Z_
+_Last updated: 2025-02-18T01:04:06.107Z_
