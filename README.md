@@ -1,3 +1,3 @@
-# Refactoring database queries
+# Enhancing offline support
 
-_Last updated: 2025-02-18T01:36:25.184Z_
+_Last updated: 2025-02-18T01:36:35.465Z_
