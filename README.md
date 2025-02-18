@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Enhancing offline support
 
-_Last updated: 2025-02-18T01:45:36.021Z_
+_Last updated: 2025-02-18T01:45:46.014Z_
