@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Updating example code snippets
 
-_Last updated: 2025-02-18T01:33:55.090Z_
+_Last updated: 2025-02-18T01:34:05.073Z_
