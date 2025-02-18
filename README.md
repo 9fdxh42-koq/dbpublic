@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Updating outdated references
 
-_Last updated: 2025-02-18T01:13:54.203Z_
+_Last updated: 2025-02-18T01:14:03.974Z_
